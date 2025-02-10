@@ -23,6 +23,32 @@ I explore **sound design and game audio implementation** using **UE5 MetaSounds 
 - **Unreal Engine Implementation & Sound Design Reel | [YouTube Video](https://youtube.com/your-link)**  
 
 
+## 🎛️ TouchDesigner Projects  
+I work with **real-time visuals and interactive installations**:  
+- **🔵 Domemaster conversion** (from equirectangular images/videos)  
+- **🟠 Custom Akai APC Layout** (MIDI control using Python)  
+
+
+## 🌐 Web Development & UI Projects  
+- **⏳ Timebooking Database System** (SQL-based scheduling platform)  
+- **🛳️ Battleship Game** (HTML, CSS, JavaScript interface)  
+
+
+## 🏡 Smart Home Automation  
+Currently **integrating smart home automation** for a **yoga studio (2 floors) & a café**, using:  
+- **📡 Network setup** with distinct zones and custom router configurations  
+- **🤖 Home Assistant** (running on Raspberry Pi servers)  
+- **💡 Zigbee & Matter Devices** (Thermostats, sensors, controllers)  
+- **🔌 Custom LED lighting rack** (200m LED strips, power supply units, Zigbee controllers)  
+- **🖥️ JavaScript UI Interfaces** for Home Assistant dashboards  
+
+
+## 📬 Let's Connect!  
+[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://linkedin.com/in/your-profile)  
+[![Discord](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg)](https://discord.com/invite/your-invite-link)  
+
+✉️ If you're looking for a **collaborator, developer, or creative technologist**, feel free to reach out!
+
 
 <a href="https://sdfsdf.com" target="_blank">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" 
