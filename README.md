@@ -26,7 +26,7 @@ I explore **sound design and game audio implementation** using **UE5 MetaSounds 
 - **Making Ambience for Third Person template using MetaVolts for UE5 MetaSound | [YouTube Video](https://youtu.be/WhkGi9J96Sw)**
 - **Unreal Engine Audio Implementation Reel | [YouTube Video](https://youtu.be/2EYPm18TH0c)**
 - **Unreal Engine Implementation & Sound Design Reel | [YouTube Video](https://youtu.be/9PW0BtJQhCM)**
-
+- **Unreal Engine and Touchdesigner Fulldome visuals | [YouTube Video](https://www.youtube.com/watch?v=zcD4zyIVrxY)**
 
 
 <!--
@@ -38,9 +38,9 @@ I work with **real-time visuals and interactive installations**:
 
 #### 🎨 Websites
 Designed and developed custom Tilda-based websites with HTML, CSS, and JavaScript:
-- 🎵 [mostlynoise.ca](https://mostlynoise.ca)
-- 🎭 [dariasergienko.com](https://dariasergienko.com)
-- 🎶 [itsmostlynoise.ca](https://itsmostlynoise.ca)
+- [dariasergienko.com](https://dariasergienko.com)
+- [mostlynoise.ca](https://mostlynoise.ca)
+- [othersidespace.com](https://othersidespace.com)
 
 <!--
 #### 🌐 Web Development & UI Projects  
@@ -64,9 +64,11 @@ If you're looking for a **collaborator, developer, or creative technologist**, f
 <a href="https://www.linkedin.com/in/danila-sergienko/">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" 
     width="30" height="30" alt="Linkedin" /></a>
+    
 <a href="https://discord.com/channels/unnerror">
   <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" 
        width="30" height="30" alt="Discord" /></a>
+       
 <a href="mailto:danilasergienko@gmail.com">
   <img src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" 
        width="30" height="30" alt="Gmail" /></a>
