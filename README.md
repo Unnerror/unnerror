@@ -62,13 +62,13 @@ Currently **integrating smart home automation** for a **yoga studio (2 floors) &
 If you're looking for a **collaborator, developer, or creative technologist**, feel free to reach out!
 
 
-<a href="https://sdfsdf.com">
+<a href="https://www.linkedin.com/in/danila-sergienko/">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" 
     width="30" height="30" alt="Linkedin" /></a>
-<a href="https://sdfsdf.com" target="_blank">
+<a href="https://discord.com/channels/unnerror">
   <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" 
        width="30" height="30" alt="Discord" /></a>
-<a href="https://sdfsdf.com" target="_blank">
+<a href="mailto:danilasergienko@gmail.com">
   <img src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" 
        width="30" height="30" alt="Gmail" /></a>
 
