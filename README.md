@@ -28,14 +28,16 @@ I am a full-stack developer and media artist.
 I explore **sound design and game audio implementation** using **UE5 MetaSounds & Blueprints**:
 - **Making Ambience for Third Person template using MetaVolts for UE5 MetaSound | [YouTube Video](https://youtu.be/WhkGi9J96Sw)**
 - **Unreal Engine Audio Implementation Reel | [YouTube Video](https://youtu.be/2EYPm18TH0c)**
-- **Unreal Engine Implementation & Sound Design Reel | [YouTube Video](https://youtu.be/9PW0BtJQhCM)**  
+- **Unreal Engine Implementation & Sound Design Reel | [YouTube Video](https://youtu.be/9PW0BtJQhCM)**
 
 
+
+<!--
 #### 🎛️ TouchDesigner Projects  
 I work with **real-time visuals and interactive installations**:  
 - **🔵 Domemaster conversion** (from equirectangular images/videos)  
 - **🟠 Custom Akai APC Layout** (MIDI control using Python)  
-
+-->
 
 #### 🎨 Websites
 Designed and developed custom Tilda-based websites with HTML, CSS, and JavaScript:
@@ -43,7 +45,7 @@ Designed and developed custom Tilda-based websites with HTML, CSS, and JavaScrip
 - 🎭 [dariasergienko.com](https://dariasergienko.com)
 - 🎶 [itsmostlynoise.ca](https://itsmostlynoise.ca)
 
-
+<!--
 #### 🌐 Web Development & UI Projects  
 - **⏳ Timebooking Database System** (SQL-based scheduling platform)  
 - **🛳️ Battleship Game** (HTML, CSS, JavaScript interface)
@@ -56,7 +58,7 @@ Currently **integrating smart home automation** for a **yoga studio (2 floors) &
 - **💡 Zigbee & Matter Devices** (Thermostats, sensors, controllers)  
 - **🔌 Custom LED lighting rack** (200m LED strips, power supply units, Zigbee controllers)  
 - **🖥️ JavaScript UI Interfaces** for Home Assistant dashboards  
-
+-->
 
 #### 📬 Let's Connect!  
 If you're looking for a **collaborator, developer, or creative technologist**, feel free to reach out!
