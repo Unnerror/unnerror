@@ -3,10 +3,9 @@
 
 I am a full-stack developer and media artist.
 
+💡 Passionate about **game development, interactive media, creative coding, and networked systems**.
 
-🌱 I'm currently pursuing my **Post-Graduate Program in Software Application Specialist (2023-2025)** at **Vanier College, Montreal**.  
-
-💡 Passionate about **game development, interactive media, creative coding, and networked systems**.  
+🌱 I'm currently pursuing my Post-Graduate Program in Software Application Specialist (2023-2025) at Vanier College, Montreal.  
 
 ### 🔧 Tech Stack:
 
@@ -24,12 +23,6 @@ I am a full-stack developer and media artist.
 - React JS
 - Spring Boot
 
-### 🎨 Websites I've Built
-I have designed and developed **three custom Tilda-based websites** with HTML, CSS, and JavaScript:
-- 🎵 [mostlynoise.ca](https://mostlynoise.ca)
-- 🎭 [dariasergienko.com](https://dariasergienko.com)
-- 🎶 [itsmostlynoise.ca](https://itsmostlynoise.ca)
-
 
 ### 🎮 Unreal Engine & Game Audio Projects  
 I explore **sound design and game audio implementation** using **UE5 MetaSounds & Blueprints**:
@@ -44,11 +37,18 @@ I work with **real-time visuals and interactive installations**:
 - **🟠 Custom Akai APC Layout** (MIDI control using Python)  
 
 
+### 🎨 Websites
+Designed and developed custom Tilda-based websites with HTML, CSS, and JavaScript:
+- 🎵 [mostlynoise.ca](https://mostlynoise.ca)
+- 🎭 [dariasergienko.com](https://dariasergienko.com)
+- 🎶 [itsmostlynoise.ca](https://itsmostlynoise.ca)
+
+
 ### 🌐 Web Development & UI Projects  
 - **⏳ Timebooking Database System** (SQL-based scheduling platform)  
-- **🛳️ Battleship Game** (HTML, CSS, JavaScript interface)  
+- **🛳️ Battleship Game** (HTML, CSS, JavaScript interface)
 
-
+  
 ### 🏡 Smart Home Automation  
 Currently **integrating smart home automation** for a **yoga studio (2 floors) & a café**, using:  
 - **📡 Network setup** with distinct zones and custom router configurations  
