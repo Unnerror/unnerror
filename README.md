@@ -7,14 +7,11 @@ I am a full-stack developer and media artist.
 
 🌱 I'm currently pursuing my Post-Graduate Program in Software Application Specialist (2023-2025) at Vanier College, Montreal.  
 
-#### 🔧 Tech Stack:
-
+### 🛠 Tech Stack:
 - Unreal Engine
 - Unity
-- Touchdesigner
-
+- TouchDesigner
 - HTML/CSS
-- JavaScript
 - JavaScript
 - Java
 - C#
