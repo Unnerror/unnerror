@@ -26,8 +26,7 @@ I explore **sound design and game audio implementation** using **UE5 MetaSounds 
 - **Making Ambience for Third Person template using MetaVolts for UE5 MetaSound | [YouTube Video](https://youtu.be/WhkGi9J96Sw)**
 - **Unreal Engine Audio Implementation Reel | [YouTube Video](https://youtu.be/2EYPm18TH0c)**
 - **Unreal Engine Implementation & Sound Design Reel | [YouTube Video](https://youtu.be/9PW0BtJQhCM)**
-- **Unreal Engine and Touchdesigner Fulldome visuals | [YouTube Video](https://www.youtube.com/watch?v=zcD4zyIVrxY)**
-
+- **UI design and implementation using HTML, CSS, JavaScript for 🛳️ Battleship Game**
 
 <!--
 #### 🎛️ TouchDesigner Projects  
@@ -37,17 +36,19 @@ I work with **real-time visuals and interactive installations**:
 -->
 
 #### 🎨 Websites
-Designed and developed custom Tilda-based websites with HTML, CSS, and JavaScript:
+Designed and developed custom websites with Tilda, HTML, CSS, and JavaScript:
 - [dariasergienko.com](https://dariasergienko.com)
 - [mostlynoise.ca](https://mostlynoise.ca)
 - [othersidespace.com](https://othersidespace.com)
 
-<!--
-#### 🌐 Web Development & UI Projects  
-- **⏳ Timebooking Database System** (SQL-based scheduling platform)  
-- **🛳️ Battleship Game** (HTML, CSS, JavaScript interface)
 
-  
+#### 🌐 Fulldome visuals and binaural audio
+As a member of Mostly Noise I designed fulldome visuals and pacial audio. I use Unreal Engine, Touchdesigner, Ableton, Envelop for Live
+- **Mostly Noise - Fulldome Demo Reel 2025 | [YouTube Video](https://youtu.be/zcD4zyIVrxY)**
+- **En Hägring - SAT Fest 2024 Official Selection | [YouTube Video](https://youtu.be/W8j7_VHCobM)**
+
+
+<!--  
 #### 🏡 Smart Home Automation  
 Currently **integrating smart home automation** for a **yoga studio (2 floors) & a café**, using:  
 - **📡 Network setup** with distinct zones and custom router configurations  
