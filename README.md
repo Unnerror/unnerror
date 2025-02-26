@@ -26,7 +26,7 @@ I explore **sound design and game audio implementation** using **UE5 MetaSounds 
 - **Making Ambience for Third Person template using MetaVolts for UE5 MetaSound | [YouTube Video](https://youtu.be/WhkGi9J96Sw)**
 - **Unreal Engine Audio Implementation Reel | [YouTube Video](https://youtu.be/2EYPm18TH0c)**
 - **Unreal Engine Implementation & Sound Design Reel | [YouTube Video](https://youtu.be/9PW0BtJQhCM)**
-- **UI design and implementation using HTML, CSS, JavaScript for 🛳️ Battleship Game**
+- **UI design and implementation of ship;s placement HTML, CSS, JavaScript | [Battleship Game](https://github.com/Unnerror/battleship-game-ui)**
 
 <!--
 #### 🎛️ TouchDesigner Projects  
