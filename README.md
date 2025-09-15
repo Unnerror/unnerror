@@ -39,7 +39,7 @@ I work with **real-time visuals and interactive installations**:
 Designed and developed custom websites with Tilda, HTML, CSS, and JavaScript:
 - [dariasergienko.com](https://dariasergienko.com)
 - [mostlynoise.ca](https://mostlynoise.ca)
-- [othersidespace.com](https://othersidespace.com)
+- [othersidespace.com](https://othersidespace.com/en/home)
 
 
 #### 🌐 Fulldome visuals and binaural audio
